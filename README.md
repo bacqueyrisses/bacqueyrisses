@@ -11,8 +11,10 @@
 
 
 
+[<img alt="alt_text" width="40px" src="images/image.PNG" />](https://www.google.com/)
 
 
+[<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
 
 
 
