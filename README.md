@@ -1,1 +1,1 @@
-[<img src="https://user-images.githubusercontent.com/96829831/174839173-2407167f-0366-4b63-a42e-92f2b7aa0a8f.png">](https://github.com/bacqueyrisses)
+[<img src="https://user-images.githubusercontent.com/96829831/175063814-444b4f4b-b36f-4264-b512-3e9349f16852.jpeg">](https://github.com/bacqueyrisses)
