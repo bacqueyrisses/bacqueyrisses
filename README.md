@@ -1,3 +1,3 @@
 👋
 
- [<img src="https://user-images.githubusercontent.com/96829831/203060876-eee2f648-d3b4-4f6d-8eae-9fb1bf40bf24.png">](https://www.bacqueyrisses.dev)
+ [<img src="https://user-images.githubusercontent.com/96829831/203061330-2a222948-9dcd-45f0-8f5a-34f063ee1caa.png">](https://www.bacqueyrisses.dev)
