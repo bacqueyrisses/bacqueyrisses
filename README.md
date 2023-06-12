@@ -4,5 +4,3 @@ I'm *Enzo Bacqueyrisses*, a web developer from France. I'm passionate about open
 I've been captivated by Next.js, React, and the Full Stack *JavaScript ecosystem*.
 <br />
 ### Let's work together! [📧](mailto:bacqueyrisses@proton.me)
-
-
