@@ -1,5 +1,5 @@
 # Hey 👋
-I'm Enzo, a web developer from France. I'm passionate about open source and specialize in TypeScript. 
+I'm Enzo, a web developer from France. I'm passionate about open source projects and specialize in TypeScript. 
 <br />
 I've been captivated by Next.JS, React, and the Full Stack *JavaScript ecosystem*.
 <br />
