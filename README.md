@@ -1,4 +1,6 @@
-# Hey ![](waving-hand.webp){: width="10" height="10"}
+# Hey 
+<img src="waving-hand.webp"  width="10" height="10">
+
 
 I'm Enzo, a web developer from France. I'm passionate about open source projects and have specialized in TypeScript. 
 <br />
