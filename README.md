@@ -1,4 +1,4 @@
-# Hey <img src="waving-hand.webp"  width="30" height="30">
+# Hey <img src="waving-hand.webp"  width="50" height="50">
 
 
 I'm Enzo, a web developer from France. I'm passionate about open source projects and have specialized in TypeScript. 
