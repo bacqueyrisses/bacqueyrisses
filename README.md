@@ -1,4 +1,4 @@
-# Hey ![Image](https://em-content.zobj.net/source/telegram/358/waving-hand_1f44b.webp)
+# Hey 
 
 I'm Enzo, a web developer from France. I'm passionate about open source projects and have specialized in TypeScript. 
 <br />
