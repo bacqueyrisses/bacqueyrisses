@@ -1,4 +1,4 @@
-# Hey
+Hey
 
 I'm Enzo, a web developer from France. I'm passionate about open source projects and have specialized in Next.js and TypeScript. 
 <br />
