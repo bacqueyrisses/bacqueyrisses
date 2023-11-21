@@ -1,6 +1,6 @@
 ### Hey!
 
-I'm Enzo, a full-stacj developer from France. I'm passionate about open source projects and have specialized in Next.js and TypeScript. 
+I'm Enzo, a full-stack developer from France. I'm passionate about open source projects and have specialized in Next.js and TypeScript. 
 <br />
 I'm captivated by the immense potential of the ever-expanding *JavaScript ecosystem*.
 
